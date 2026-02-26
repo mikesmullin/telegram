@@ -1,0 +1,13 @@
+{
+  "name": "telegram",
+  "module": "index.mjs",
+  "type": "module",
+  "private": true,
+  "bin": {
+    "telegram": "./index.mjs"
+  },
+  "dependencies": {
+    "telegram": "^2.26.22",
+    "yaml": "^2.8.2"
+  }
+}
